@@ -8,10 +8,7 @@ namespace HeloWorldConsoleApp
 {
 	class Program
 	{
-		/// <summary>
-		/// Код, который запускается в первую очередь.
-		/// </summary>
-		/// <param name="args"></param>
+		
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Привет, Мир!");
