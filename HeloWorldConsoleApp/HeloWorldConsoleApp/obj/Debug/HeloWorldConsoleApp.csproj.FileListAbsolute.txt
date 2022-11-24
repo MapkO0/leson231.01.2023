@@ -1,0 +1,8 @@
+C:\Users\Марк\source\repos\HeloWorldConsoleApp\HeloWorldConsoleApp\bin\Debug\HeloWorldConsoleApp.exe.config
+C:\Users\Марк\source\repos\HeloWorldConsoleApp\HeloWorldConsoleApp\bin\Debug\HeloWorldConsoleApp.exe
+C:\Users\Марк\source\repos\HeloWorldConsoleApp\HeloWorldConsoleApp\bin\Debug\HeloWorldConsoleApp.pdb
+C:\Users\Марк\source\repos\HeloWorldConsoleApp\HeloWorldConsoleApp\obj\Debug\HeloWorldConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Марк\source\repos\HeloWorldConsoleApp\HeloWorldConsoleApp\obj\Debug\HeloWorldConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Марк\source\repos\HeloWorldConsoleApp\HeloWorldConsoleApp\obj\Debug\HeloWorldConsoleApp.exe
+C:\Users\Марк\source\repos\HeloWorldConsoleApp\HeloWorldConsoleApp\obj\Debug\HeloWorldConsoleApp.pdb
+C:\Users\Марк\source\repos\HeloWorldConsoleApp\HeloWorldConsoleApp\obj\Debug\HeloWorldConsoleApp.csproj.SuggestedBindingRedirects.cache
