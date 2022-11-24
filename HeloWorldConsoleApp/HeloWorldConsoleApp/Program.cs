@@ -12,8 +12,13 @@ namespace HeloWorldConsoleApp
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Привет, Мир!");
+
 			Console.WriteLine("Привет");
+
 			Console.WriteLine("Мир");
+
+
+
 			Console.WriteLine("!!!");
 
 			Console.Write("HELLO ");
