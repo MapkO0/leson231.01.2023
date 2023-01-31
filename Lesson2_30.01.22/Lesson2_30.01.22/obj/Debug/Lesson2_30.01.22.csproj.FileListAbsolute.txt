@@ -1,0 +1,8 @@
+C:\Users\Марк\source\repos\Lesson2_30.01.22\Lesson2_30.01.22\obj\Debug\Lesson2_30.01.22.csproj.AssemblyReference.cache
+C:\Users\Марк\source\repos\Lesson2_30.01.22\Lesson2_30.01.22\obj\Debug\Lesson2_30.01.22.csproj.SuggestedBindingRedirects.cache
+C:\Users\Марк\source\repos\Lesson2_30.01.22\Lesson2_30.01.22\obj\Debug\Lesson2_30.01.22.csproj.CoreCompileInputs.cache
+C:\Users\Марк\source\repos\Lesson2_30.01.22\Lesson2_30.01.22\bin\Debug\Lesson2_30.01.22.exe.config
+C:\Users\Марк\source\repos\Lesson2_30.01.22\Lesson2_30.01.22\bin\Debug\Lesson2_30.01.22.exe
+C:\Users\Марк\source\repos\Lesson2_30.01.22\Lesson2_30.01.22\bin\Debug\Lesson2_30.01.22.pdb
+C:\Users\Марк\source\repos\Lesson2_30.01.22\Lesson2_30.01.22\obj\Debug\Lesson2_30.01.22.exe
+C:\Users\Марк\source\repos\Lesson2_30.01.22\Lesson2_30.01.22\obj\Debug\Lesson2_30.01.22.pdb
