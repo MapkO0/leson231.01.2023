@@ -1,0 +1,8 @@
+C:\Users\Марк\source\repos\Lesson03_01.02.2023\Task03\bin\Debug\Task03.exe.config
+C:\Users\Марк\source\repos\Lesson03_01.02.2023\Task03\bin\Debug\Task03.exe
+C:\Users\Марк\source\repos\Lesson03_01.02.2023\Task03\bin\Debug\Task03.pdb
+C:\Users\Марк\source\repos\Lesson03_01.02.2023\Task03\obj\Debug\Task03.csproj.AssemblyReference.cache
+C:\Users\Марк\source\repos\Lesson03_01.02.2023\Task03\obj\Debug\Task03.csproj.SuggestedBindingRedirects.cache
+C:\Users\Марк\source\repos\Lesson03_01.02.2023\Task03\obj\Debug\Task03.csproj.CoreCompileInputs.cache
+C:\Users\Марк\source\repos\Lesson03_01.02.2023\Task03\obj\Debug\Task03.exe
+C:\Users\Марк\source\repos\Lesson03_01.02.2023\Task03\obj\Debug\Task03.pdb
