@@ -14,30 +14,43 @@ namespace Task05
             Random rnd = new Random();
             int iiNumber = rnd.Next(1, 101);
             int count = 0;
-            int userNumber;
+            string userNumber = "";
+            int value = 0;
 
             do
             {
-                Console.WriteLine("Введите число:\n");
                 count++;
-                userNumber = int.Parse(Console.ReadLine());
-                if (userNumber < iiNumber)
+                Console.WriteLine("Введите число:\n");
+                userNumber = Console.ReadLine();
+
+
+                if (int.TryParse(userNumber, out value))
                 {
-                    Console.WriteLine("Введённое число больше загаданного. Попробуйте еще раз.\n");
-                }
-                else if (userNumber > iiNumber)
-                {
-                    Console.WriteLine("Введенное число меньше загаданного. Попробуйте еще раз.\n");
+                    if (value == iiNumber)
+                    {
+                        Console.WriteLine($"Число угадано! Число попыток {count}.\n");
+                    }
+                    else
+                    {
+                        if (value > iiNumber)
+                        {
+                            Console.WriteLine("Введенное число больше загаданного. Попробуйте еще раз.\n");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Введённое число меньше загаданного. Попробуйте еще раз.\n");
+                        }
+                    }
                 }
                 else
                 {
-                    Console.WriteLine($"Число угадано! Число попыток {count}.\n");
-                    Console.ReadKey();
+                    Console.WriteLine($"Игра закончена! Загаданное число {iiNumber}\n");
                     break;
                 }
 
             }
             while (true);
+            Console.ReadKey();
         }
     }
 }
