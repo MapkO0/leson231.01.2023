@@ -1,0 +1,8 @@
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Lesson04-exercise02\obj\Debug\Lesson04-exercise02.csproj.AssemblyReference.cache
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Lesson04-exercise02\obj\Debug\Lesson04-exercise02.csproj.SuggestedBindingRedirects.cache
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Lesson04-exercise02\obj\Debug\Lesson04-exercise02.csproj.CoreCompileInputs.cache
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Lesson04-exercise02\bin\Debug\Lesson04-exercise02.exe.config
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Lesson04-exercise02\bin\Debug\Lesson04-exercise02.exe
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Lesson04-exercise02\bin\Debug\Lesson04-exercise02.pdb
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Lesson04-exercise02\obj\Debug\Lesson04-exercise02.exe
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Lesson04-exercise02\obj\Debug\Lesson04-exercise02.pdb

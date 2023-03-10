@@ -1,0 +1,8 @@
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Leeson04-09.03.2023\obj\Debug\Leeson04-09.03.2023.csproj.AssemblyReference.cache
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Leeson04-09.03.2023\obj\Debug\Leeson04-09.03.2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Leeson04-09.03.2023\obj\Debug\Leeson04-09.03.2023.csproj.CoreCompileInputs.cache
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Leeson04-09.03.2023\bin\Debug\Leeson04-09.03.2023.exe.config
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Leeson04-09.03.2023\bin\Debug\Leeson04-09.03.2023.exe
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Leeson04-09.03.2023\bin\Debug\Leeson04-09.03.2023.pdb
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Leeson04-09.03.2023\obj\Debug\Leeson04-09.03.2023.exe
+C:\Users\Марк\source\repos\Leeson04-09.03.2023\Leeson04-09.03.2023\obj\Debug\Leeson04-09.03.2023.pdb
